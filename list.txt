@@ -3,3 +3,6 @@ aepfel
 bier
 leberkaese
 schokolade
+chips
+käse
+wurst
