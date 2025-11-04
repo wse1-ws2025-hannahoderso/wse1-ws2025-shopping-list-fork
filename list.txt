@@ -10,3 +10,5 @@ käse
 wurst
 tomaten
 paprika
+salat
+gurken
