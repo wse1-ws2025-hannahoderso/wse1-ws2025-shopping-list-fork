@@ -9,3 +9,4 @@ käse
 wurst
 tomaten
 paprika
+salat
