@@ -7,3 +7,5 @@ schokolade
 chips
 käse
 wurst
+tomaten
+paprika
