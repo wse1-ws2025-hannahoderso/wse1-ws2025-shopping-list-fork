@@ -16,3 +16,4 @@ tomaten
 paprika
 salat
 gurken
+sprite
